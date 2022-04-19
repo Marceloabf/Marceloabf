@@ -2,7 +2,7 @@
 
 
  🌱 I’m currently learning MySQL <br>
- 👯 I’m know SCRUM <br>
+ 👯 I know SCRUM <br>
  🤔 I’m looking for a job <br>
  💬 Ask me about anything 🙃 <br>
  📫 How to reach me: celo.filho1@hotmail.com <br>

@@ -1,12 +1,12 @@
 ### Olá, meu nome é Marcelo Amorim 👋
 
 
-- 🌱 I’m currently learning MySQL
-- 👯 I’m know SCRUM
-- 🤔 I’m looking for a job
-- 💬 Ask me about anything 🙃
-- 📫 How to reach me: celo.filho1@hotmail.com
-- 😄 Pronouns: ele/dele
+ 🌱 I’m currently learning MySQL <br>
+ 👯 I’m know SCRUM <br>
+ 🤔 I’m looking for a job <br>
+ 💬 Ask me about anything 🙃 <br>
+ 📫 How to reach me: celo.filho1@hotmail.com <br>
+ 😄 Pronouns: ele/dele <br>
 
 <div align="center">
   <a href="https://github.com/Marceloabf">

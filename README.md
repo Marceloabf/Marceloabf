@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcelo Amorim 👋
 
 
- 🌱 I’m currently learning MySQL <br>
+ 🌱 I’m currently learning MySQL and React Native <br>
  👯 I know SCRUM <br>
  🤔 I’m looking for a job <br>
  💬 Ask me about anything 🙃 <br>

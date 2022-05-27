@@ -1,11 +1,11 @@
 ### Olá, meu nome é Marcelo Amorim 👋
 
 
- 🌱 I’m currently learning MySQL and React Native <br>
- 👯 I know SCRUM <br>
+ 🌱 I’m currently learning React Native <br>
+ 👯 SCRUM <br>
  🤔 I’m looking for a job <br>
  💬 Ask me about anything 🙃 <br>
- 📫 How to reach me: celo.filho1@hotmail.com <br>
+ 📫 How to reach me: celo.filho1@hotmail.com or mrcloabf@gmail.com <br>
  😄 Pronouns: ele/dele <br>
 
 <div align="center">
@@ -19,6 +19,7 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/547232965072125976/965993120862969876/ezgif.com-gif-maker_1.gif">
 </div>

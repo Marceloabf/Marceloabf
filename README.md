@@ -1,7 +1,7 @@
 ### Olá, meu nome é Marcelo Amorim 👋
 
 
- 🌱 I’m currently learning React Native <br>
+ 🌱 I’m currently learning Typescript and React <br>
  👯 SCRUM <br>
  🤔 I’m looking for a job <br>
  💬 Ask me about anything 🙃 <br>

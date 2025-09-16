@@ -1,9 +1,9 @@
 Hello, my name is Marcelo Amorim 👋</br>
+📌 I work professionally with private repositories, so my public activity here is limited.</br>
 </br>
 💻 Developer with over 3 years of experience, proficient in React, Angular, Node.js, Express.js, and NestJS.</br>
 ⚙️ Currently working as a Software Product and Platform Engineer at Accenture Brazil.</br>
 🚀 Passionate about technology and best development practices.</br>
-📌 I work professionally with private repositories, so my public activity here is limited.</br>
 📫 Contact me at: celo.filho1@hotmail.com | mrcloabf@gmail.com</br>
  </br>
 <div> 
